@@ -1,0 +1,10 @@
+{
+  "name": "broadly",
+  "version": "1.0.0",
+  "description": "Broadly Coding Challenge",
+  "author": "m3libea",
+  "dependencies": {
+    "q": "^1.4.1",
+    "request-promise": "^2.0.0"
+  }
+}
